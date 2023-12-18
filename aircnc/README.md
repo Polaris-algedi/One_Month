@@ -1,0 +1,1 @@
+—AirCnC—a social network for cats and canines that looks very similar to AirBnB.![The mobile view: ](images/comp-mobile.png)![The desktop view:](images/desktop.png)
